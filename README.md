@@ -1,5 +1,6 @@
-# Wistar_paper_list
-Paper List of Wireless AI System Research Team, China Telecom Research Institute
+# Wireless AI System Research Team Paper List
+The Wireless AI System Research Team (Wistar) at China Telecom, established in 2024, is committed to the advanced research in the integration of wireless networks with AI. We focus on AI-native RAN, 6G, and data management. The mission of Wistar is to create smarter and more efficient wireless networks, empowering China Telecom with sustainable and seamless communication services.  
+For query and collaboration opportunities, please contact: contact_wistar@chinatelecom.cn.   
 
 **Journal Papers**  
 * Minimizing Energy and Latency in LEOS-Assisted Open RAN Architecture Toward AI of Things [[Paper]](https://ieeexplore.ieee.org/document/10852181) [IOTJ 2025]
