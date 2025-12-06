@@ -10,4 +10,7 @@ For query and collaboration opportunities, please contact: contact_wistar@chinat
 **Conference Papers**  
 * The Architecture of AI and Communication Integration towards 6G: An O-RAN Evolution [[Paper]](https://dl.acm.org/doi/abs/10.1145/3636534.3701550) [ACM Mobicom 2024]
 * Bridging AI and Wireless Networks: A Data-Centric Functional Perspective [FCN 2025]
-* A Federated Fine-Tuning Paradigm of Foundation Models in Heterogenous Wireless Networks [Globecom 2025]
+* A Federated Fine-Tuning Paradigm of Foundation Models in Heterogenous Wireless Networks [[Paper]](https://arxiv.org/abs/2509.19306) [Globecom 2025]
+
+**WhitePaper**  
+* Mobile AI A New Ecosystem of Integrated AI and Mobile Communications, China Telecom and Huawei [MWC Shanghai 2025]
